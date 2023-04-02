@@ -4,4 +4,4 @@
 # **Fake album data generator for JSON Server**
 💻 Generate random data for JSON Server, along with fake album covers sourced from Reddit.
 
-This repository contains the index.js script for generating fake data for [json-server](https://github.com/typicode/json-server#generate-random-data), as well as cover images for fake albums, sourced from [Reddit].(https://www.reddit.com/r/fakealbumcovers/)
+This repository contains the index.js script for generating fake data for [json-server](https://github.com/typicode/json-server#generate-random-data), as well as cover images for fake albums, sourced from [Reddit](https://www.reddit.com/r/fakealbumcovers/)
