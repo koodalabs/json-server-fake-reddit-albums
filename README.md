@@ -2,6 +2,6 @@
 </p>
 
 # **Fake album data generator for JSON Server**
-Generate random data for JSON Server, along with meme fake album covers sourced from Reddit
+💻 Generate random data for JSON Server, along with fake album covers sourced from [Reddit](https://www.reddit.com/r/fakealbumcovers/)
 
 
