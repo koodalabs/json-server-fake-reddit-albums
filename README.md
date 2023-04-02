@@ -14,3 +14,6 @@ This repository contains the `index.js` script for generating fake data for [jso
 
 ## Contributing
 Feel free to fork the repository, make changes, and submit pull requests.
+
+## Articles
+- [Building a 24/7 Fake REST API with JSON Server and [de]Generated Data in 5 minutes](https://medium.com/full-struggle-developer/building-a-24-7-fake-rest-api-with-json-server-and-de-generated-data-in-5-minutes-6226187026b)
