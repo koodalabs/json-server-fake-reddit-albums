@@ -10,7 +10,7 @@ This repository contains the `index.js` script for generating fake data for [jso
 1. Install json-server.
 2. Copy the images from the `covers` folder to your CDN or locally.
 3. Modify the `index.js` file to specify your `path/to/images`. Also, feel free to change the data structure as you wish, the [Faker](https://github.com/faker-js/faker) module is used here.
-4. Copy the `index.js` and `albums.json` files to where you have deployed the json-server, then run the command `json-server index.js` ✅
+4. Copy the `index.js` and `albums.json` files to where you have deployed the json-server, then run the command: `json-server index.js` ✅
 
 ## Contributing
 Feel free to fork the repository, make changes, and submit pull requests.
