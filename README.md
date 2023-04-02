@@ -2,7 +2,7 @@
 </p>
 
 # **Fake album data generator for JSON Server**
-💻 Generate random data for JSON Server, along with fake album covers sourced from Reddit.
+💻 Generate random data for JSON Server, along with fake album covers.
 
 This repository contains the `index.js` script for generating fake data for [json-server](https://github.com/typicode/json-server), as well as cover images for fake albums, sourced from [Reddit](https://www.reddit.com/r/fakealbumcovers/). Should only be used in development purpose.
 
@@ -11,3 +11,6 @@ This repository contains the `index.js` script for generating fake data for [jso
 2. Copy the images from the `covers` folder to your CDN or locally.
 3. Modify the `index.js` file to specify your `path/to/images`. Also, feel free to change the data structure as you wish, the [Faker](https://github.com/faker-js/faker) module is used here.
 4. Copy the `index.js` and `albums.json` files to where you have deployed the json-server, then run the command `json-server index.js` ✅
+
+## Contributing
+Feel free to fork the repository, make changes, and submit pull requests.
